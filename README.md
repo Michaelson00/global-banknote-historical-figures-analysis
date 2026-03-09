@@ -1,7 +1,7 @@
 # People on Banknotes – Data Analysis
 # File Structure
 <pre>
-  people-on-banknotes-analysis
+people-on-banknotes-analysis
 │
 ├── data
 │   └── people-on-banknotes.csv
